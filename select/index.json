@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "STEADY",
+  "base_artist": "SPEED",
+  "createdAt": "2026-03-01T18:11:12.573591Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Steady Heart (Wedding Version)",
+      "artist": "Kameron Marlowe",
+      "has_synced": true,
+      "path": "select/01_Steady_Heart_(Wedding_Version)_Kameron_Marlowe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Steady Now",
+      "artist": "Magnolia Electric Co.",
+      "has_synced": false,
+      "path": "select/02_Steady_Now_Magnolia_Electric_Co..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Real Love Survives - Rock Steady Remix",
+      "artist": "No Doubt feat. Ms. Dynamite",
+      "has_synced": false,
+      "path": "select/03_A_Real_Love_Survives_-_Rock_Steady_Remix_No_Doubt_feat._Ms._Dynamite.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Real Love Survives (Rock Steady Remix)",
+      "artist": "No Doubt",
+      "has_synced": false,
+      "path": "select/04_A_Real_Love_Survives_(Rock_Steady_Remix)_No_Doubt.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Rock Steady Vibe - Rock Steady Remix",
+      "artist": "No Doubt feat. Sweetie Irie",
+      "has_synced": false,
+      "path": "select/05_A_Rock_Steady_Vibe_-_Rock_Steady_Remix_No_Doubt_feat._Sweetie_Irie.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Rock Steady Vibe (Rock Steady Remix)",
+      "artist": "No Doubt",
+      "has_synced": false,
+      "path": "select/06_A_Rock_Steady_Vibe_(Rock_Steady_Remix)_No_Doubt.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rock Steady",
+      "artist": "No Doubt",
+      "has_synced": true,
+      "path": "select/07_Rock_Steady_No_Doubt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Steady Rollin' Man",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/08_Steady_Rollin'_Man_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Steady Rockin'",
+      "artist": "Bomfunk MC's",
+      "has_synced": false,
+      "path": "select/09_Steady_Rockin'_Bomfunk_MC's.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ready, Steady, Go",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/10_Ready,_Steady,_Go_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ready Steady Go",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/11_Ready_Steady_Go_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Steady Me",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/12_Steady_Me_Sandra.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Steady Me",
+      "artist": "Sandra",
+      "has_synced": true,
+      "path": "select/13_Steady_Me_Sandra.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Eddy Steady Go",
+      "artist": "Rozlyne Clarke",
+      "has_synced": false,
+      "path": "select/14_Eddy_Steady_Go_Rozlyne_Clarke.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Last Train to Trancentral (120 Rock Steady)",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/15_Last_Train_to_Trancentral_(120_Rock_Steady)_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Steady",
+      "artist": "Svrcina",
+      "has_synced": true,
+      "path": "select/16_Steady_Svrcina.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Steady Waves",
+      "artist": "Cross Record",
+      "has_synced": true,
+      "path": "select/17_Steady_Waves_Cross_Record.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Going Steady",
+      "artist": "Death from Above 1979",
+      "has_synced": true,
+      "path": "select/18_Going_Steady_Death_from_Above_1979.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STEADY",
+      "artist": "SPEED",
+      "has_synced": false,
+      "path": "select/pl_01_STEADY_SPEED.txt"
+    }
+  ]
+}
