@@ -1,0 +1,68 @@
+# SPEED – STEADY
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+逢いたくてたまらない…
+想い出すだけで 胸がギュッとなる
+やさしいあつかいじゃ
+物足りないよ
+あの娘にしてるみたいに
+きつく抱いて欲しい
+あぁ 街にとびこめば
+いつもの仲間と騒げるけど
+変わり始めてる 私を誰も知らない
+きっと…
+世界中でたったひとりの
+あなたに出逢えたこと
+偶然じゃなく 運命といつか
+呼べる日まで
+Believe My Soul
+かけがえのないあなたの
+かけがえのない人になって行きたい
+Dream On Dream On Dream Of You
+Ding Dong Ding Dong
+Longest Night
+泣きそうな自分に負けないで
+それなりに やってきた
+経験を嘆くより チャンとしたい
+不器用にしか 振る舞えなくたって
+一途な愛なら
+誰にも負けないように
+あぁ 風が冷たくて
+かじかむ心 抱きしめてるよ
+喧騒から逃れても
+ひとりには なりたくなくて
+今日は…
+世界中の時を止めて
+あなたと 見つめ合えたら
+二度と戻れない 遥か
+遠くまで つれていって
+Believe My Soul 凍えそうな今夜は
+せめて夢で逢いたい
+Dream On Dream On Dream Of You
+'cause It's a Lonely
+Silent Night
+ありったけの愛を捧げたい!
+Love Revolution
+あきらめない力 身につけたい!!
+Believe My Soul!
+Believe My Love!
+Believe Your Kiss 今は辛くても
+だんだん良くなっていくよ
+想い続けてれば きっと叶うから
+そうだよね
+世界中でたったひとりの
+あなたに出逢えたこと
+偶然じゃなく 運命といつか
+呼べる日まで
+Believe My Soul
+かけがえのないあなたの
+かけがえのない人になって行きたい
+Dream On Dream On Dream Of You
+Ding Dong Ding Dong
+Longest Night
+こみあげてく 想いに
+泣きそうな自分に負けないで
+WANNA BE YOUR STEADY!
+```
